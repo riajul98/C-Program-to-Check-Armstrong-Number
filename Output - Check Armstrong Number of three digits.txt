@@ -1,0 +1,4 @@
+Output
+
+Enter a three digit integer: 371
+371 is an Armstrong number.
